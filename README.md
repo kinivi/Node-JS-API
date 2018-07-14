@@ -26,6 +26,6 @@
    
    
    __Роут, который возвращает всех пользователей, с которыми общался пользователь с данным id.__  
-    ```GET localhost:1428/api/user/id/contacts```
+    ```GET localhost:1428/api/user/:id/contacts```
    
 
